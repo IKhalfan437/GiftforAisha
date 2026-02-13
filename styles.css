@@ -1,8 +1,7 @@
 .message {
-    position: relative;
-    top: 0px;  /* adjust as needed */
+    position: absolute;
+    top: 420px;          
 }
-
 body {
     margin: 0;
     padding: 0;
